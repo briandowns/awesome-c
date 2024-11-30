@@ -1161,7 +1161,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [EasyLogger][706] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
 * [liblogger][707] - Fast JSON structured logger [``BSD-2-Clause``][BSD-2-Clause]
 * [libspinner][708] - 90+ configurable terminal spinners and progress indicators [``BSD-2-Clause``][BSD-2-Clause]
-
+* [libgithub][709] - Library to integrate with Github's REST API [``BSD-2-Clause``][BSD-2-Clause]
 ## Web Frameworks ##
 
 Comprehensive and integrated solutions for building the next brilliant web
@@ -1851,3 +1851,4 @@ support for C.
 [706]: https://github.com/armink/EasyLogger
 [707]: https://github.com/briandowns/liblogger
 [708]: https://github.com/briandowns/libspinner
+[709]: https://github.com/briandowns/libgithub
