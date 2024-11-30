@@ -1159,6 +1159,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Metalang99][603] - Full-blown preprocessor metaprogramming. [``MIT``][MIT]
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
 * [EasyLogger][706] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
+* [liblogger][707] - Fast JSON structured logger [``BSD-2-Clause``][BSD-2-Clause]
 
 ## Web Frameworks ##
 
@@ -1847,4 +1848,4 @@ support for C.
 [704]: https://github.com/taosdata/TDengine
 [705]: https://nappgui.com/
 [706]: https://github.com/armink/EasyLogger
-
+[707]: https://github.com/briandowns/liblogger
