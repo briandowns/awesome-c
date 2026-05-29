@@ -340,10 +340,12 @@ work.
    single and multithread programs, user assertions, overflow, and pointer/memory safety. [``Apache-2.0``][Apache-2.0]
 * [GDB][87] - GNU Project debugger. [``GPL-3.0-or-later``][GPL-3.0-or-later]
 * [lldb][468] - LLVM debugger. [``NCSA``][NCSA]
+* [Owi][707] - A symbolic execution tool ([paper][708]) [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
 * [rr][95] - Debugger that records non-deterministic executions to allow for
   deterministic debugging. [``BSD-2-Clause``][BSD-2-Clause]
 * [Valgrind][85] - Range of dynamic analysis tools, including a leak
   checker. [``GPL-2.0-only``][GPL-2.0-only]
+* [vfs-pipe][710] - One-header library to expose internal C variables as a virtual filesystem for live inspection and tuning. [``MIT``][MIT]
 
 ## Documentation Generation ##
 
@@ -979,6 +981,7 @@ device types (such as logic analyzers, oscilloscopes, multimeters, and more). [`
 * [minctest][394] - Unit testing microlibrary. [``BSD-3-Clause``][BSD-3-Clause]
 * [munit][392] - Small unit testing framework. [``MIT``][MIT]
 * [Nala][560] - A test framework for C projects. [``MIT``][MIT]
+* [Owi][707] - A bug-finding tool built on symbolic execution ([paper][708]) [``AGPL-3.0-or-later``][AGPL-3.0-or-later]
 * [Rexo][563] - Framework for C89/C++ featuring automatic registration of tests and a polished API. [``Unlicense``][Unlicense]
 * [Tau][609] -  A Micro Unit testing framework for C/C++ (~1k lines of code). Includes a rich set of assertion macros, supports automatic test 
 registration and can output to multiple formats, like the TAP format or JUnit XML. Supported on Linux, macOS, FreeBSD, and Windows. [``MIT``][MIT]
@@ -1162,6 +1165,8 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
 * [EasyLogger][706] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
 * [Rattler][713] - Clone of Gos Cobra CLI framework [``BSD-2-Clause``][BSD-2-Clause] 
+* [microlog][709] - Extensible and configurable logging library with topics for embedded and desktop 
+  [``MIT``][MIT]
 
 ## Web Frameworks ##
 
@@ -1850,7 +1855,10 @@ support for C.
 [704]: https://github.com/taosdata/TDengine
 [705]: https://nappgui.com/
 [706]: https://github.com/armink/EasyLogger
+[707]: https://github.com/OCamlPro/owi
+[708]: https://hal.science/hal-04627413
+[709]: https://github.com/an-dr/microlog
+[710]: https://github.com/Nouridin/vfs_pipe
 [711]: https://github.com/briandowns/libmaple
 [712]: https://github.com/briandowns/libpapago
 [713]: https://github.com/briandowns/librattler
-
