@@ -741,6 +741,7 @@ comprehensive and high-level, you may want the Web Frameworks section.
 * [Wslay][460] - WebSocket library. Implements version 13 of the WebSocket
   protocol, as described in RFC 6455. [``MIT``][MIT]
 * [zyre][419] - Framework for proximity-based peer-to-peer applications. [``MPL-2.0``][MPL-2.0]
+* [Papago][708] - Modern, Powerful, Embeddable Web Framework [``BSD-2-Clause``][BSD-2-Clause]
 
 ## Numerical ##
 
@@ -882,6 +883,7 @@ Implementations of the (standard-mandated) C standard library.
 ### Template libraries
 
 * [CTL][613] - C CONTAINER TEMPLATE LIBRARY (CTL) [``MIT``][MIT]
+* [Maple][707] - Lightweight, embeddable Go inspired template engine [``BSD-2-Clause``][iBSD-2-Clause]
 
 ## String Manipulation ##
 
@@ -1847,4 +1849,6 @@ support for C.
 [704]: https://github.com/taosdata/TDengine
 [705]: https://nappgui.com/
 [706]: https://github.com/armink/EasyLogger
+[707]: https://github.com/briandowns/libmaple
+[708]: https://github.com/briandowns/libpapago
 
