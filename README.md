@@ -1849,6 +1849,6 @@ support for C.
 [704]: https://github.com/taosdata/TDengine
 [705]: https://nappgui.com/
 [706]: https://github.com/armink/EasyLogger
-[707]: https://github.com/briandowns/libmaple
-[708]: https://github.com/briandowns/libpapago
+[711]: https://github.com/briandowns/libmaple
+[712]: https://github.com/briandowns/libpapago
 
