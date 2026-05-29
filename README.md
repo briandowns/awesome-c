@@ -1161,6 +1161,7 @@ A 'catch-all' category for anything that doesn't fit well anywhere else.
 * [Metalang99][603] - Full-blown preprocessor metaprogramming. [``MIT``][MIT]
 * [Datatype99][604] - Algebraic data types for C99. [``MIT``][MIT]
 * [EasyLogger][706] - An ultra-lightweight, high-performance C/C++ log library. [``MIT``][MIT]
+* [Rattler][713] - Clone of Gos Cobra CLI framework [``BSD-2-Clause``][BSD-2-Clause] 
 
 ## Web Frameworks ##
 
@@ -1851,4 +1852,5 @@ support for C.
 [706]: https://github.com/armink/EasyLogger
 [711]: https://github.com/briandowns/libmaple
 [712]: https://github.com/briandowns/libpapago
+[713]: https://github.com/briandowns/librattler
 
